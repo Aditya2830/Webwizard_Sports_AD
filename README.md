@@ -1,4 +1,7 @@
-## Webwizard_Sports_Analytic_Dashboard
+# Webwizard_Sports_Analytic_Dashboard
 
-# Group Name:
+## Group Name:
   Webwizards
+
+## Project Title: 
+  Sports Analytics Dashboard
