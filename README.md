@@ -11,8 +11,8 @@
 
 ## Group Members:
 - Aditya Gajjar (KU2407U392)
-- Krish Dhairav (KU2407U416)
 - Henish Prajapati (KU2407U404)
+- Krish Dhairav (KU2407U416)
 - Tishya Sajnani (KU2407U444)
 
 ## Objective of the Project:
