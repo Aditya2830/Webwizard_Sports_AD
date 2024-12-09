@@ -20,6 +20,7 @@ To create an interactive dashboard that visualizes player and team performance m
 
 ## Tools and Libraries Used:
 - Numpy
+- Pandas
 - MatplotLib
 - Tabulate
 
