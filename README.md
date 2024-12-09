@@ -26,8 +26,6 @@ To create an interactive dashboard that visualizes player and team performance m
 ## Execution Steps (How to run the project):
 Here is the **stepwise execution** of your code:
 
----
-
 ## Step 1: Import Required Libraries
 - **Purpose**: Import `numpy`, `pandas`, `matplotlib.pyplot`, and `tabulate` libraries.
 - These libraries are used for numerical computations, data manipulation, visualization, and tabular representation.
