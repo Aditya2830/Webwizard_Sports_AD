@@ -94,13 +94,6 @@ To create an interactive dashboard that visualizes player and team performance m
 - **Purpose**: Compares century and fifty counts for each player.
 - **Output**: Displays a grouped bar chart.
 
-## Challenges Faced
-
-- Difficulty in sourcing consistent and comprehensive data from multiple platforms.
-- Integration of diverse data formats into a unified structure suitable for analysis and visualization.
-- Ensuring data accuracy while dealing with missing or inconsistent records.
-- Implementing robust data cleaning processes to maintain the integrity of the metrics.
-
 ## Summary of Results:
 
 This dashboard serves as a powerful tool for cricket enthusiasts, analysts, and team management to delve into detailed performance metrics and make informed decisions.
